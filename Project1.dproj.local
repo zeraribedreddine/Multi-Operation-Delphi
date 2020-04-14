@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/04/13 20:19:44.000.055,=C:\Users\kikatokiro\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2020/04/13 20:20:13.000.009,C:\Users\kikatokiro\Documents\Embarcadero\Studio\Projets\Unit1.pas=C:\Users\kikatokiro\Desktop\add edit save supp\main_file.pas</Transaction>
+    <Transaction>2020/04/13 20:20:13.000.009,C:\Users\kikatokiro\Documents\Embarcadero\Studio\Projets\Unit1.dfm=C:\Users\kikatokiro\Desktop\add edit save supp\main_file.dfm</Transaction>
+    <Transaction>2020/04/13 20:20:17.000.486,C:\Users\kikatokiro\Documents\Embarcadero\Studio\Projets\Project1.dproj=C:\Users\kikatokiro\Desktop\add edit save supp\Project1.dproj</Transaction>
+    <Transaction>2020/04/13 20:20:24.000.486,=C:\Users\kikatokiro\Desktop\add edit save supp\Unit1.pas</Transaction>
+    <Transaction>2020/04/13 20:20:50.000.809,C:\Users\kikatokiro\Desktop\add edit save supp\Unit1.dfm=C:\Users\kikatokiro\Desktop\add edit save supp\dataModile_File.dfm</Transaction>
+    <Transaction>2020/04/13 20:20:50.000.809,C:\Users\kikatokiro\Desktop\add edit save supp\Unit1.pas=C:\Users\kikatokiro\Desktop\add edit save supp\dataModile_File.pas</Transaction>
+  </Transactions>
+</BorlandProject>
